@@ -1,4 +1,9 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Functionality:
+1. Filtering todos
+2. Adding a todo
+3. Deleting todos
+4. Toggling a todo status
+5. Renaming a todo
+
+Technologies: React, HTML, SCSS
+
