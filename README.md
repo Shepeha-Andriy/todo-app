@@ -1,4 +1,5 @@
 Prewiev: https://shepeha-andriy.github.io/todo-app/
+
 Functionality:
 1. Filtering todos
 2. Adding a todo
