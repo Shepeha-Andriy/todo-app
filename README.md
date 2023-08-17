@@ -1,4 +1,4 @@
-Prewiev: https://shepeha-andriy.github.io/todo-app/
+Prewiev: https://shepeha-andriy.github.io/todo-app/  
 
 Functionality:
 1. Filtering todos
